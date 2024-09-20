@@ -2,4 +2,4 @@ Programmes d'illustrations des méthodes d'intégrations numériques pour les é
 
 Mise en œuvre des modèles de machine learning pour l'analyse d'image.
 
-Exemples d'asservissements avec Simulink
+Exemples d'asservissements avec Simulink.
